@@ -2,7 +2,7 @@ package yandexPracticum;
 
 import java.util.Random;
 
-public class Practicum {
+public class Practicum_6_1 {
     public static void main(String[] args) {
     String[] appliances = {"Стиральная машина", "Сушильная машина", "Холодильник", "Утюг", "Посудомоечная машина", "Микроволновая печь", "Варочная поверхность", "Духовой шкаф", "Блендер", "Миксер"}; // объяви массив наименований бытовой техники};
 

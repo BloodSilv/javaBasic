@@ -2,7 +2,7 @@ package yandexPracticum;
 
 import java.util.Random;
 
-public class Praktikum {
+public class Practikum_6 {
     public static void main(String[] args) {
         // Объяви пустой массив потребления воды за неделю (7 дней)
         int[] waterConsumption = new int[7];
