@@ -10,7 +10,7 @@ public class Praktikum {
         Random random = new Random(); // Генерирует случайное число
 
         // Допиши условие цикла, чтобы заполнить массив случайными значениями
-        for (int i = 0; i <  waterConsumption.length; i += 200) {
+        for (int i = 0; i < waterConsumption.length; i++) {
             /* максимальное число, которое может вернуть nextInt(n) - n-1,
             поэтому мы передаём в метод число 2001 (2000 + 1), чтобы максимальным числом
             было 2000 (2001 - 1) */
@@ -19,8 +19,8 @@ public class Praktikum {
 
         System.out.println("Потребление воды за неделю:");
         // Выведи с помощью цикла все приёмы воды за неделю в виде: "День (номер дня) ... . Выпито воды: ... мл"
-        for (int i = 1; i <= 7; i++) {
-            System.out.println("День " + i + "." + "Выпито воды: " + waterConsumption + "мл");
+        for (int i = 0; i < 7; i++) {
+            System.out.println("День " + i + "." + "Выпито воды: " + waterConsumption[i] + "мл");
         }
     }
 }
