@@ -1,4 +1,4 @@
-package Section1234;
+package Udemy.Section1234;
 
 public class helloWorld {
     public static void main(String[] args) {

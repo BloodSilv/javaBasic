@@ -1,4 +1,4 @@
-package Section5;
+package Udemy.Section5;
 
 import java.util.Scanner;
 

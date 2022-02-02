@@ -1,4 +1,4 @@
-package Section5;
+package Udemy.Section5;
 
 public class typeCast {
     public static void main(String[] args) {

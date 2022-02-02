@@ -1,6 +1,4 @@
-package Section1234;
-
-import java.util.Scanner;
+package Udemy.Section1234;
 
 public class helloStudyUser {
     public static void main(String[] args) {
