@@ -1,4 +1,4 @@
-package yandexPrakticum.SprintTwo.EnumAndSwitch;
+package yandexPrakticum.SprintTwo;
 
 class TextFixer {
 

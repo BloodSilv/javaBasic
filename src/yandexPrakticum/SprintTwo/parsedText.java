@@ -1,7 +1,6 @@
-package yandexPrakticum.SprintTwo.EnumAndSwitch;
+package yandexPrakticum.SprintTwo;
 
 public class parsedText {
-
     public static void main(String[] args) {
         String[] parsedText = {
                 "                                               I                                                   ",
@@ -26,7 +25,7 @@ public class parsedText {
 
     public static void strCleaner(String str) {
         if (!str.isEmpty() && !str.isBlank()) {
-//            System.out.println(parsedText.trim());
+            System.out.println(str.trim());
         }
     }
 }

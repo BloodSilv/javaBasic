@@ -1,4 +1,4 @@
-package yandexPrakticum.SprintTwo.EnumAndSwitch;
+package yandexPrakticum.SprintTwo;
 
 public class OnlySubstring {
     public static int numberOfSubstrings(String initialString, String substring) {
